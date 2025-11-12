@@ -1,5 +1,3 @@
----
-
 # 🪙 Crypto Bot
 
 A Telegram crypto parsing bot built with **Python**, **pyTelegramBotAPI**, and **Selenium**.
@@ -9,8 +7,6 @@ A Telegram crypto parsing bot built with **Python**, **pyTelegramBotAPI**, and *
 **Crypto Bot** automatically fetches cryptocurrency data (like prices and trends) from web sources using Selenium and delivers it to users via a Telegram bot interface powered by `pyTelegramBotAPI`.
 
 This project demonstrates how to combine web scraping and Telegram automation in a simple, extendable Python application.
-
----
 
 ## ✨ Features
 
